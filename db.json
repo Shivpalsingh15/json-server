@@ -1,4 +1,18 @@
 {
-    "users": [],
-    "todos": []
+  "users": [
+    {
+      "id": "c653",
+      "username": "a",
+      "email": "a@gmail.com",
+      "password": "a@12345678"
+    }
+  ],
+  "todos": [
+    {
+      "id": "9660",
+      "newTask": "dfbgfb",
+      "userid": "c653",
+      "isDone": true
+    }
+  ]
 }
